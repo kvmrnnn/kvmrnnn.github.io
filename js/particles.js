@@ -20,14 +20,14 @@ var pJS = function(tag_id, params){
     },
     particles: {
       number: {
-        value: 400,
+        value: 300,
         density: {
           enable: true,
-          value_area: 800
+          value_area: 500
         }
       },
       color: {
-        value: '#fff'
+        value: '#9A2EFE'
       },
       shape: {
         type: 'circle',
@@ -40,8 +40,8 @@ var pJS = function(tag_id, params){
         },
         image: {
           src: '',
-          width: 100,
-          height: 100
+          width: 80,
+          height: 80
         }
       },
       opacity: {
